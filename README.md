@@ -62,7 +62,7 @@ Los cuatro integrantes del grupo nos reunimos diariamente en una casa y trabajam
 - ¿Qué vamos a hacer hoy?
 Seguir trabajando en equipo, planificando el trabajo y analizando cada objetivo para completar el 100% del trabajo en tiempo y forma.
   
-- ¿Tengo algún impedimento?
+- ¿Hay algún impedimento?
 Por el momento, no.
 
 Review:
