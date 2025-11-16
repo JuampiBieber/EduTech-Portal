@@ -56,13 +56,13 @@ SCRUM - REUNIONES Y SEGUIMIENTO:
 
 Daily Scrum:
 Breve revisión de:
-- ¿Qué hice ayer?
+- ¿Qué hicimos ayer?
 Los cuatro integrantes del grupo nos reunimos diariamente en una casa y trabajamos juntos parte por parte para lograr el objetivo del SPRINT.
   
-- ¿Qué voy a hacer hoy?
+- ¿Qué vamos a hacer hoy?
 Seguir trabajando en equipo, planificando el trabajo y analizando cada objetivo para completar el 100% del trabajo en tiempo y forma.
   
-- Si tengo algún impedimento.
+- ¿Tengo algún impedimento?
 Por el momento, no.
 
 Review:
