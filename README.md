@@ -1,5 +1,8 @@
 # EduTech-Portal - Sprint 1
 
+TABLERO:
+https://trello.com/invite/b/691892749e9d8eb4db83cd63/ATTI65d97c629e047f9a2ab5af0e91cbee33C8E0B743/edutech-portal-sprint-1
+
 ----------------------------------------------------------------------------------------------------------------------
 ROLES DEL EQUIPO:
 
