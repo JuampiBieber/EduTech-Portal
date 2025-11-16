@@ -6,6 +6,10 @@ ROLES DEL EQUIPO:
 - Product Owner (PO): define las funcionalidades prioritarias, revisa y aprueba las historias de usuario.
 - Scrum Master (SM): guía al equipo en la metodología Scrum y asegura que se siga correctamente el proceso.
 - Development Team (DEV): implementa las historias de usuario y realiza los merges, commits y desarrollo en Git.
+
+Product Owner (PO): Juan Pablo Etcheverry.
+Scrum Master (SM): Augusto Etulain.
+Development Team (DEV): Carballo Franco, Pedrazzoli Gian.
   
 ----------------------------------------------------------------------------------------------------------------------
 DESCRIPCIÓN DEL SPRINT 1:
@@ -76,10 +80,3 @@ Retrospective:
 
 ¿Qué se puede mejorar?
 - Por el momento solo seguir investigando para tener la mayor cantidad de información sobre SCRUM y GIT/GITHUB, ya que son herramientas increíbles y esenciales para trabajar.
-
-
-
-
-
-
-
