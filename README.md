@@ -12,7 +12,7 @@ ROLES DEL EQUIPO:
 
 Product Owner (PO): Juan Pablo Etcheverry.
 Scrum Master (SM): Augusto Etulain.
-Development Team (DEV): Carballo Franco, Pedrazzoli Gian.
+Development Team (DEV): Carballo Franco, Larrivey Facundo y Pedrazzoli Gian.
   
 ----------------------------------------------------------------------------------------------------------------------
 DESCRIPCIÓN DEL SPRINT 1:
